@@ -1,0 +1,30 @@
+##===========================================================================
+##  .gitignore
+##===========================================================================
+
+
+#  General
+
+*~
+*.elc
+
+
+#  Directories
+
+.cache/
+/auto-save-list/
+/elpa/
+/eshell/
+/url/
+
+
+#  Files
+
+.lsp-session-*
+.org-id-locations
+.session
+places
+session.*
+
+
+##|EOF
